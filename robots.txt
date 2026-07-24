@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eaganrestoration.com/sitemap.xml
